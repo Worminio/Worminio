@@ -1,5 +1,8 @@
-<!DOCTYPE html>
-<head></head>
+<!DOCTYPE html lang="pl">
+<head>
+  <title>Stronka o niczym i o wszystkim zarazem</title>
+  <meta charset="utf-8">
+</head>
 <body>
 - 👋 Hi, I’m @Worminio
 - 👀 I’m interested in ...
