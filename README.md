@@ -2,7 +2,8 @@
 - 👋 Cześć, Witajcie, Mam na imię Damian, ale lubię jak się mówi do mnie Worminio,
 - 👀 I’m interested in ...<br>
 - 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...<br>
+- 🌱 Obecnie uczę się programowania w języku C# (wiem, nie widać mojego kodu - jeszcze, ale już niebawem się pojawi) :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
