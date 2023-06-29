@@ -1,11 +1,15 @@
 - 👋 Hi, I’m @Worminio<br>
-- 👋 Cześć, Witajcie, Mam na imię Damian, ale lubię jak się mówi do mnie Worminio,
+- 👋 Cześć, Witajcie, Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
+
 - 👀 I’m interested in ...<br>
-- 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.
+- 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.<br>
+
 - 🌱 I’m currently learning ...<br>
-- 🌱 Obecnie uczę się programowania w języku C# (wiem, nie widać mojego kodu - jeszcze, ale już niebawem się pojawi) :)
+- 🌱 Obecnie uczę się programowania w języku C# (wiem, nie widać mojego kodu - jeszcze, ale już niebawem się pojawi) :)<br>
+
 - 💞️ I’m looking to collaborate on ...<br>
-- 💞️ Szukam do współpracy....
+- 💞️ Szukam do współpracy....<br>
+
 - 📫 How to reach me ...<br>
 - 📫 Kontakt do mnie....
 <!---
