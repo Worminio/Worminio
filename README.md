@@ -5,7 +5,7 @@
 - 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.<br>
 
 - 🌱 I’m currently learning ...
-- 🌱 Obecnie uczę się programowania w języku C# (wiem, nie widać mojego kodu - jeszcze, ale już niebawem się pojawi) :)<br>
+- 🌱 Obecnie uczę się programowania w języku C# (wiem, nie widać mojego kodu - jeszcze, ale już niebawem się pojawi) :) W wolnych chwilach doszkalam się z HTMLa, CSSa i JSa - docelowo chciałbym być FullStackiem :) także trochę Frontendu i trochę backendu <br>
 
 - 💞️ I’m looking to collaborate on ...
 - 💞️ Szukam do współpracy....<br>
