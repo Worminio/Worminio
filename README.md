@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Worminio
-- 👋 <i>Cześć, Witajcie,</i> Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
+- 👋 <style="background-color:yellow; color:blue;"><i>Cześć, Witajcie,</i> Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
 
 - 👀 I’m interested in ...
 - 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.<br>
@@ -11,7 +11,7 @@
 - 💞️ Szukam do współpracy....<br>
 
 - 📫 How to reach me ...
-- 📫 Kontakt do mnie....
+- 📫 Kontakt do mnie....</style>
 <!---
 Worminio/Worminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
