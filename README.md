@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <style="background-color:yellow;" "color:blue;">
+  <style="background-color:yellow; color:blue;">
 </head>
 <body>
 - 👋 Hi, I’m @Worminio
