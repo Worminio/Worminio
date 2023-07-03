@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <head>
   <style="background-color:yellow;" "color:blue;">
-</head>  
+</head>
+<body>
 - 👋 Hi, I’m @Worminio
 - 👋 <i>Cześć, Witajcie,</i> Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
 
@@ -14,7 +16,7 @@
 - 💞️ Szukam do współpracy....<br>
 
 - 📫 How to reach me ...
-- 📫 Kontakt do mnie....</style>
+- 📫 Kontakt do mnie....
 <!---
 Worminio/Worminio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,3 +26,5 @@ Worminio/Worminio to ✨ specjalne ✨ repozytorium, ponieważ jego plik `README
 Możesz kliknąć łącze Podgląd, aby przejrzeć zmiany.
 Troszkę sie popracuje i będzie gites :) Na razie niczego tutaj nie kumam, robię na czuja, uczę sie :)
 --->
+</body>
+</html>
