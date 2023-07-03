@@ -1,5 +1,8 @@
+<head>
+  <style="background-color:yellow;" "color:blue;">
+</head>  
 - 👋 Hi, I’m @Worminio
-- 👋 <style="background-color:yellow;" "color:blue;"><i>Cześć, Witajcie,</i> Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
+- 👋 <i>Cześć, Witajcie,</i> Mam na imię Damian, ale lubię gdy się zwraca do mnie: <span class="worminio"><b>Worminio</b></span>,<br>
 
 - 👀 I’m interested in ...
 - 👀 Interesuję się sportem a szczególnie piłką nożną oraz biegami - sam uprawiam amatorsko biegi ultra.<br>
